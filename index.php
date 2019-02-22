@@ -3,7 +3,7 @@
         $item = $_POST['item'];
         $price = $_POST['price'];
 
-        $file = fopen("01.csv","a");
+        $file = fopen("01.csv");
         $add_row = "\n".$item.",".$price;
         fwrite($file,$add_row);
         fclose($file);
