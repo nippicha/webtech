@@ -1,6 +1,6 @@
 .table th{
     padding: .3rem;
-    background-color: #e7e6dc;
+    background-color: white;
     color:black;
     font-family: 'Dosis', sans-serif;
     font-size: 130%
@@ -9,7 +9,7 @@
     padding: .2rem;
     font-family: 'Dosis', sans-serif;
     font-size: 100%;
-    border-bottom: 1px solid #b8b5aa;
+    border-bottom: 1px solid white;
     color: black;
 }
 .body{
