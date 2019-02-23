@@ -1,0 +1,18 @@
+.table th{
+    padding: .3rem;
+    background-color: #e7e6dc;
+    color: #85837b;
+    font-family: 'Dosis', sans-serif;
+    font-size: 130%
+}
+.table td {
+    padding: .2rem;
+    font-family: 'Dosis', sans-serif;
+    font-size: 100%;
+    border-bottom: 1px solid #b8b5aa;
+    color: #85837b;
+}
+.body{
+    padding: 10%;
+    background-color: #f5f6f2;
+}
