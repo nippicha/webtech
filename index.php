@@ -27,6 +27,9 @@
             <li class="nav-item">
                 <a class="nav-link" href="01.csv" download="">Download</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="table.php" download="">Show</a>
+            </li>
         </ul>
     </nav>
     <form method="post">
@@ -54,9 +57,10 @@
                                     <div class="form-group">
                                         <input type="file" class="form-control-file" id="exampleFormControlFile1">
                                     </div>
-                                    <button type="submit" id="show" name="show" value="Submit" class="btn btn-outline-primary btn-lg float-right" style="font-size:1rem;">Show</button>
+                                    <!-- <button type="submit" id="show" name="show" value="Submit" class="btn btn-outline-primary btn-lg float-right" style="font-size:1rem;">Show</button> -->
                                     <button type="submit" id="done" name="done" value="Submit" class="btn btn-outline-primary btn-lg float-right" style="font-size:1rem; margin-right:1.5%;">Done</button>
                                 </form>
+                                
                             </div>
                         </div>
                     </div>
