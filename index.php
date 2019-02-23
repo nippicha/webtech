@@ -28,7 +28,7 @@
                 <a class="nav-link" href="01.csv" download="">Download</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="table.php" download="">Show</a>
+                <a class="nav-link" href="table.php">Show</a>
             </li>
         </ul>
     </nav>
