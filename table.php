@@ -20,7 +20,7 @@
                 </li>
             </ul>
     </nav>
-    <table>
+    <table class="table">
         <thead>
             <tr>
                 <th>Item</th>
