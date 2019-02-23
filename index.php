@@ -55,7 +55,7 @@
                                         <input type="file" class="form-control-file" id="exampleFormControlFile1">
                                     </div>
                                     <button type="submit" id="done" name="done" value="Submit" class="btn btn-outline-primary btn-lg float-right" style="font-size:1rem;">Done</button>
-                                    <button type="submit" id="show" name="show" value="Submit" class="btn btn-outline-primary btn-lg float-right" style="font-size:1rem;">Show</button>
+                                    <button type="submit" id="show" name="show" value="Submit" class="btn btn-outline-primary btn-lg float-right" style="font-size:1rem; padding-left:1%;">Show</button>
                                 </form>
                             </div>
                         </div>
